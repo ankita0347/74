@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/6cb3262e-0e11-4653-ae63-7c4917b48931/resourceGroups/appsvc_linux_centralus_basic/providers/Microsoft.Web/sites/covid-19-tracker-1",
+    "appService.deploySubpath": "."
+}
